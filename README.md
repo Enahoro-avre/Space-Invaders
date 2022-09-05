@@ -1,3 +1,3 @@
 # Space-invaders
-2d game
+pygame
 Enjoy !
