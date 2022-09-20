@@ -1,3 +1,3 @@
 # Space-invaders
-pygame
+Built with pygame
 Enjoy !
